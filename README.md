@@ -25,5 +25,6 @@ Links to articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linke
 
 1. [Google Scholar](http://scholar.google.com/citations?user=JCFmKSkAAAAJ&hl=en)
 2. [Researchgate](https://www.researchgate.net/profile/Hasan_Timucin_Ozdemir)
+3. [Semantics](https://www.semanticscholar.org/author/H.-Ozdemir/40625437)
 
 by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
