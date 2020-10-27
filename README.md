@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# articles_medium
+# Articles on [Medium.com](Medium.com)
 Links to articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 
 1. [Algorithm Interview by Example: Process](https://medium.com/@ozdemirtim/algorithm-interview-by-example-process-d12a70202c9f)
