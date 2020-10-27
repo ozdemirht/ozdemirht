@@ -21,4 +21,9 @@ Links to articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linke
 1. [Algorithm Interview by Example: Process](https://medium.com/@ozdemirtim/algorithm-interview-by-example-process-d12a70202c9f)
 2. [Algorithm Interview by Example: Random Selection](https://medium.com/@ozdemirtim/algorithm-interview-by-example-random-selection-42bf4aaad9e2)
 
+# List of publications, patents
+
+1. [Google Scholar](http://scholar.google.com/citations?user=JCFmKSkAAAAJ&hl=en)
+2. [Researchgate](https://www.researchgate.net/profile/Hasan_Timucin_Ozdemir)
+
 by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
