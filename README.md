@@ -28,5 +28,6 @@ Links to articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linke
 3. [Semantics](https://www.semanticscholar.org/author/H.-Ozdemir/40625437)
 4. [Patents](https://patents.google.com/?inventor=Hasan+Timucin+OZDEMIR)
 5. [Microsoft](https://academic.microsoft.com/search?q=hasan%20timucin%20ozdemir)
+6. [Association for Computing Machinery (ACM) Digital Library](https://dl.acm.org/profile/81100197448)
 
 by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
