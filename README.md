@@ -30,5 +30,6 @@ Links to articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linke
 5. [Microsoft](https://academic.microsoft.com/search?q=hasan%20timucin%20ozdemir)
 6. [Association for Computing Machinery (ACM) Digital Library](https://dl.acm.org/profile/81100197448)
 7. [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/author/37539920000)
+8. [USA Patent Collection DB](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=in%2Fozdemir+and+%28timucin+or+hasan%29&d=PTXT)
 
 by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
