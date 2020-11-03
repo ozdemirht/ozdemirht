@@ -33,4 +33,4 @@ Links to articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linke
 8. [USA Patent Collection DB](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=in%2Fozdemir+and+%28timucin+or+hasan%29&d=PTXT)
 9. [Mensions](https://www.securityinformed.com/people/hasan-ozdemir.html)
 
-by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
+by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir), [2018](https://www.securityinformed.com/news/onvif-annual-meeting-technical-committees-co-227-ga-co-1277-ga-co-1286-ga-co-2173-ga-co-3101-ga-co-3289-ga-co-3425-ga-co-4261-ga-co-8173-ga-co-8421-ga-co-11239-ga-co-14002-ga.1543999220.html)
