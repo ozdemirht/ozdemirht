@@ -1,7 +1,9 @@
-### Hi there 👋
+### [Tim's GitHub Profile](https://ozdemirht.github.io/) 👋
 
 <!--
 **ozdemirht/ozdemirht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  # # # Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Tim's GitHub Profile](https://ozdemirht.github.io/)
 
 # Articles on [Medium.com](Medium.com)
 Links to articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
