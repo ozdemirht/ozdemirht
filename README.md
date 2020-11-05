@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 # Articles on [Medium.com](Medium.com)
 Links to articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
 
-1. [Algorithm Interview by Example: Process](https://medium.com/@ozdemirtim/algorithm-interview-by-example-process-d12a70202c9f)
-2. [Algorithm Interview by Example: Random Selection](https://medium.com/@ozdemirtim/algorithm-interview-by-example-random-selection-42bf4aaad9e2)
+1. [Algorithm Interview by Example: Process](https://medium.com/@ozdemirtim/algorithm-interview-by-example-process-d12a70202c9f) (2020)
+2. [Algorithm Interview by Example: Random Selection](https://medium.com/@ozdemirtim/algorithm-interview-by-example-random-selection-42bf4aaad9e2) (2020)
 
 # Publications
 
@@ -37,5 +37,14 @@ Links to articles in [Medium.com](Medium.com) by [Tim Ozdemir](https://www.linke
 
 1. [USA Patent Collection DB](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=in%2Fozdemir+and+%28timucin+or+hasan%29&d=PTXT)
 1. [Patents](https://patents.google.com/?inventor=Hasan+Timucin+OZDEMIR)
+
+Sites
+------
+1. [LinkedIn](https://www.linkedin.com/in/hasantimucinozdemir)
+1. [HackerRank](https://www.hackerrank.com/profile/ozdtm2019)
+1. LeetCode
+1. [Medium.com](https://medium.com/@ozdemirtim/)
+1. [GitHub](https://github.com/ozdemirht)
+1. [GitHub Page](https://ozdemirht.github.io/)
 
 by [Tim Ozdemir](https://www.linkedin.com/in/hasantimucinozdemir)
